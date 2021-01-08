@@ -9,3 +9,8 @@ nav{
     display: flex;
     align-items: center;justify-content: center;flex-direction: column;
 }
+main{
+ display: flex;
+ align-items: center;justify-content: center;
+ margin: 10% auto;
+}
