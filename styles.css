@@ -1,17 +1,29 @@
-nav ul{
-    list-style: none;
+nav ul {
+  list-style: none;
 }
-li a{
-    text-decoration: none;
-    color: blue;
+li a {
+  text-decoration: none;
+  color: blue;
 }
-nav{
-    display: flex;
-    align-items: center;justify-content: center;flex-direction: column;
+nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
 }
-main{
- display: flex;
- align-items: center;justify-content: center;
- margin: 10% auto;
- color: green;
+main {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 10% auto;
+  color: green;
+}
+footer {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 20% auto;
+  background-color: red;
+  color: blue;
+  padding: 10px;font-size: 20px;font-family: Arial, Helvetica, sans-serif;
 }
