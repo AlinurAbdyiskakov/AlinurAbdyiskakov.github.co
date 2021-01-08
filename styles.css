@@ -27,3 +27,48 @@ footer {
   color: blue;
   padding: 10px;font-size: 20px;font-family: Arial, Helvetica, sans-serif;
 }
+@keyframes my1{
+    0%{
+        background-image: url(./img/img1.jpg);
+    }
+    10%{
+        background-image: url(./img/img2.jpg);
+    }
+    
+    20%{
+        background-image: url(./img/img3.jpg);
+    }
+    30%{
+        background-image: url(./img/img4.jpg);
+    }   40%{
+        background-image: url(./img/img5.jpg);
+    }
+    50%{
+        background-image: url(./img/img6.jpg);
+    }   60%{
+        background-image: url(./img/img7.jpg);
+    }
+    70%{
+        background-image: url(./img/img8.jpg);
+    }   80%{
+        background-image: url(./img/img9.jpg);
+    }
+    90%{
+        background-image: url(./img/img10.jpg);
+    }   100%{
+        background-image: url(./img/img11.jpg);
+    }
+    110%{
+        background-image: url(./img/img12.jpg);
+    }   120%{
+        background-image: url(./img/img13.jpg);
+    }
+    130%{
+        background-image: url(./img/img14.jpg);
+    }   140%{
+        background-image: url(./img/img15.jpg);
+    }
+    150%{
+        background-image: url(./img/img16.jpg);
+    }
+}
