@@ -30,26 +30,26 @@ footer {
 @keyframes my1{
     0%{
         background-image: url(./img/img1.jpg);
-        transform: rotate(0.9);
+      
     }
     10%{
         background-image: url(./img/img2.jpg);
-        transform: scale(2.0);
+       
     }
     
     20%{
         background-image: url(./img/img3.jpg);
-        transform: skew(3.0);
+       
     }
     30%{
         background-image: url(./img/img4.jpg);
     }   40%{
         background-image: url(./img/img5.jpg);
-        transform: translate(2.0);
+      
     }
     50%{
         background-image: url(./img/img6.jpg);
-        transform: skewX(2.0);
+       
     }   60%{
         background-image: url(./img/img7.jpg);
     }
@@ -87,9 +87,6 @@ body{
     animation-name:my1;
     animation-duration: 10s ;
     animation-iteration-count: infinite;
-  
     animation-direction: alternate;
-    
-
     animation-timing-function: ease-in-out;
 }
